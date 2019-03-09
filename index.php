@@ -24,7 +24,7 @@
 
     // GET YOUR DARKSKY API FROM api.darksky.net website
     
-	$api_url = 'https://api.darksky.net/forecast/1f1b362fd5726c908582ac1b63011ec5/'. $coordinates;
+	$api_url = 'https://api.darksky.net/forecast/YOUR API HERE/'. $coordinates;
 	$forecast = json_decode(file_get_contents($api_url));
 
 
