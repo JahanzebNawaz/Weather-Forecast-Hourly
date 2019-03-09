@@ -12,6 +12,6 @@ Weather Forecast Hourly using Darksky API
   4- run it 
   
 
-# Website Jkcodes.com
-# Facebook : https://www.facebook.com/jkcodes/
-# Facebook : https://www.facebook.com/official.Jahanzeb.Nawaz/
+# Website  http://jkcodes.com/
+###### Facebook : https://www.facebook.com/jkcodes/
+###### Facebook : https://www.facebook.com/official.Jahanzeb.Nawaz/
